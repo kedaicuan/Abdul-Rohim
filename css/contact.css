@@ -18,9 +18,15 @@ nav a:hover{
 input  {
   background-color: whitesmoke;
   border: 1px;
+  padding: 8px;
+}
+
+.input-kirim {
+  padding: 8px;
 }
 
 textarea {
   background-color: whitesmoke;
   border: 1px;
+  padding: 8px;
 }
