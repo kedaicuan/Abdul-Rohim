@@ -1,4 +1,7 @@
+const home = ('KAMU SEDANG BERADA DI HALAMAN HOME')
+
 document.getElementById('navbar').onclick = () => {
-  console.log('sukses')
+  console.log(home)
+  alert(home)
 };
 
