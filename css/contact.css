@@ -16,7 +16,7 @@ nav a:hover{
 
 
 input  {
-  background-color: whitesmoke;
+  background-color: ghostwhite;
   border: 1px;
   padding: 8px;
 }
@@ -29,7 +29,7 @@ input  {
   background-color: orange;
 }
 textarea {
-  background-color: whitesmoke;
+  background-color: ghostwhite;
   border: 1px;
   padding: 8px;
   width: 80%;
