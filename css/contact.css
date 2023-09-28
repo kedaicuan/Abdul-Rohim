@@ -25,6 +25,9 @@ input  {
   padding: 8px;
 }
 
+.input-kirim:hover {
+  background-color: teal;
+}
 textarea {
   background-color: whitesmoke;
   border: 1px;
